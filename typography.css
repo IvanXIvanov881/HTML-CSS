@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+html{
+    font:14px/1.8 "PT serif", sans-serif;
+}
+
+header .site-nav li a{
+    color: white;
+    margin-right: 1em;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+header .banner-text{
+    padding: 1em 6em 6em 6em;
+    text-align: left;
+    
+}
+
+
+
+header .banner-text h1,
+header .banner-text p
+{
+max-width: 35em;
+line-height: 1.5em;
+color: #FFFFFF;
+line-height: 2em;
+}
+
+main{
+    background-color: #FFFFFF;
+}
+
+main .first-content p{
+    line-height: 1.5em;
+}
+
+main .second-content h1{
+    color: #C5A488;
+}
+
+main a{
+    padding: 0.5em;
+    border: 1px solid #C5A488;
+    border-radius: 0.2em;
+    color: #C5A488;
+}
+
+
+
+footer{
+    background-color: #171720;
+}
+
+footer p{
+color: white;
+}
+
+.footer-up ul li{
+    margin: 1em 0em 1em 0em;
+}
+footer li a{
+    color: #78766F;
+    text-transform: uppercase;
+    
+}
+
+footer .footer-down p{
+    color: #78766F;
+    
+}
+
